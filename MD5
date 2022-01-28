@@ -1,0 +1,12 @@
+f788ca3fc8832f51007f249744751918 *DESCRIPTION
+a4c32eb2f6296e353e3b6d2d386bf7ed *NAMESPACE
+b2740c05edb01cf846c448913024a2bd *R/RcppExports.R
+7e9d68ed57d5a8fdfd327c816ee4fae1 *R/twinning.R
+ce1f5e39517263213506d7da513b59a0 *inst/include/nanoflann.hpp
+3e9d9b071f4e03ab88b41728abb09b1a *man/energy.Rd
+1130ce68cb4ed778f4d0d17915cbb70e *man/multiplet.Rd
+87a159b08db1800b66f3c29a0639547d *man/twin.Rd
+a6392558f1f48ca6c0afdfe67a56b450 *man/twinning-package.Rd
+28cbe83104ce09ed9bae211228a93f81 *src/Makevars
+63ff19847d0be638beb0915b0e2968dc *src/RcppExports.cpp
+c930227fcb9e964a8c85056aee0863ca *src/twinning.cpp

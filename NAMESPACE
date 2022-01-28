@@ -1,0 +1,4 @@
+useDynLib(twinning, .registration=TRUE)
+import(Rcpp)
+importFrom(stats, contr.helmert)
+export(twin, multiplet, energy)
